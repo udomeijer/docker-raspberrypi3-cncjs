@@ -1,6 +1,6 @@
 # docker-raspberrypi3-cncjs
 
-CNCjs for Raspberry Pi 3
+CNCjs (https://cnc.js.org/) for Raspberry Pi 3
 
 Exposes:
 - 8000
