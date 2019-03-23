@@ -2,7 +2,7 @@ FROM balenalib/raspberrypi3-node:8
 
 MAINTAINER Udo Meijer <umeijer@gmail.com>
 
-ENV CNCJS_VERSION=1.9.15
+ENV CNCJS_VERSION=1.9.16
 
 RUN apt-get update \
  && apt-get install build-essential python \
